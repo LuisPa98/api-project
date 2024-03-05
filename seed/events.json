@@ -1,0 +1,42 @@
+[
+    {
+        "eventName": "Meg's last hurrrah",
+        "date": "2024-10-01",
+        "eventType": "Party",
+        "address": "40 St-lowery st",
+        "description": "leetttss gooooo",
+        "borough": "Queens",
+        "neighborhood": "Sunnyside",
+        "websiteLink": "none"
+    },
+    {
+        "eventName": "the Bronx night market",
+        "date": "2024-04-06",
+        "eventType": "Food/Market",
+        "address": "1 fordham plaza",
+        "description": "line up of 50 local vendors, draws over 4,000 guest each time. Once a month (every first saturday of each month till october)",
+        "borough": "The Bronx",
+        "neighborhood": "Fordham",
+        "websiteLink": "https://www.maschospitalitygroup.com/bronxnightmarket"
+    },
+    {
+        "eventName": "Gov Ball",
+        "date": "2024-06-07 - 2024-06-09",
+        "eventType": "Music",
+        "address": "Flushing Meadows Corona Park",
+        "description": "60+ of the world's best artist across 3 stages",
+        "borough": "Queens",
+        "neighborhood": "Corona",
+        "websiteLink": "https://www.governorsballmusicfestival.com/"
+    },
+    {
+        "eventName": "Mercer Labs",
+        "date": "Schedule on Website",
+        "eventType": "Muesuem",
+        "address": "21 Dey Street",
+        "description": "15 experimental exhibition spaces, interactive experiences, immersive installations",
+        "borough": "Manhattan",
+        "neighborhood": "Financial District",
+        "websiteLink": "https://www.mercerlabs.com/?gad_source=1&gclid=CjwKCAiAopuvBhBCEiwAm8jaMZn3u2TuxIrbu8fjEtJySL62oeLhO7dtiMyNw9xZouS33gN6lP1tARoCmi0QAvD_BwE"
+    }
+]
