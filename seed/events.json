@@ -38,5 +38,15 @@
         "borough": "Manhattan",
         "neighborhood": "Financial District",
         "websiteLink": "https://www.mercerlabs.com/?gad_source=1&gclid=CjwKCAiAopuvBhBCEiwAm8jaMZn3u2TuxIrbu8fjEtJySL62oeLhO7dtiMyNw9xZouS33gN6lP1tARoCmi0QAvD_BwE"
+    },
+    {
+        "eventName": "Museum of Failure",
+        "date": "2024-03-17 - 2024-05-09",
+        "eventType": "Muesuem",
+        "address": "900 Third Ave",
+        "description": "Traveling museum brings over 159 products and service that were a total flop, but paved the way for other great inventions.",
+        "borough": "Brooklyn",
+        "neighborhood": "Sunset Park",
+        "websiteLink": "https://www.thefailuremuseum.com/new-york/"
     }
 ]
