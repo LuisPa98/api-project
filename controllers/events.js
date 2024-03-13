@@ -27,6 +27,18 @@ export const getEvent = async ( req, res ) => {
     }
 }
 
+export const getEventsByBorough = async (req, res) => {
+    try{
+        const { borough } = req.params
+
+        const events = await Event.find({ "borough": borough });
+        res.json(events)
+    }catch(error) {
+        console.error(error)
+        res.status(500).json({error: error.message})
+    }
+}
+
 export const createEvent = async ( req, res ) => {
     try {
         const event = new Event(req.body)

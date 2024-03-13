@@ -9,4 +9,6 @@ router.post("/", controllers.createEvent);
 router.put("/:eventName", controllers.updateEvent);
 router.delete("/:eventName", controllers.deleteEvent);
 
+router.get("/borough/:borough", controllers.getEventsByBorough)
+
 export default router;
